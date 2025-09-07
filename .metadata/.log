@@ -1,0 +1,18 @@
+!SESSION 2025-09-07 11:04:03.137 -----------------------------------------------
+eclipse.buildId=Version 1.18.1
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-09-07 11:04:42.842
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-09-07 11:04:42.843
+!MESSAGE Log4j2 initialized with config file C:\Users\Baraa Arafeh\embedded-bootcamp\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-09-07 11:04:46.630
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-09-07 11:06:17.065
+!MESSAGE Indexed 'nucleof072rb' (29 sources, 61 headers) in 3.94 sec: 7,441 declarations; 51,451 references; 16 unresolved inclusions; 329 syntax errors; 4,077 unresolved names (6.5%)
